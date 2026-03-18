@@ -1,8 +1,11 @@
 ## 为什么
 
-目前 [https://3.jetbra.in](https://3.jetbra.in) 站点因为未知原因挂掉了，此仓库是 2025/10 最后一次从该站点获取到的激活方式。适用于 IntelliJ IDEA 2025.2.6.1 (Ultimate Edition) 版本。
+目前 [https://3.jetbra.in](https://3.jetbra.in) 站点~~因为未知原因挂掉了~~ **复活了**，此仓库是 2025/10 最后一次从该站点获取到的激活方式。适用于 IntelliJ IDEA 2025.2.6.1 (Ultimate Edition) 版本。
 
-你在尝试此激活方案前，应该复查一遍 [https://3.jetbra.in](https://3.jetbra.in) 是否已经恢复可用。
+你在尝试此激活方案前，应该复查一遍 [https://3.jetbra.in](https://3.jetbra.in) 是否已经恢复可用。 <span style="color:red"></span>
+
+> [!IMPORTANT]
+> 站点  [https://3.jetbra.in](https://3.jetbra.in)  已恢复，建议从此站点获取最新的插件和使用方法。😘😘
 
 ## 操作步骤
 
